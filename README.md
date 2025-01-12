@@ -41,6 +41,8 @@ The dataset includes the following columns:
 - **Units Sold**: Number of units sold. 📦  
 - **Total Sales**: Total revenue from the sale. 💰  
 - **Operating Profit**: Profit earned from the sale. 📈  
+- **Operating Margin**: Percentage of revenue that remains as profit after covering operating costs. 📉
+- **Sales Method**: The approach or channel through which the sale was conducted (e.g., Online, In-store). 🛒
 
 ---
 
